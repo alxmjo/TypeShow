@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Type Show</string>
+    <string name="action_settings">Settings</string>
+    <string name="type_something">Type something…</string>
+    <string name="title_activity_show">Show Activity</string>
+    <string name="show">SHOW</string>
+    <string name="what_you_typed">Here\'s what you typed…</string>
+    <string name="type">TYPE</string>
+    <string name="fail">You didn\'t type anything.</string>
+
+</resources>
