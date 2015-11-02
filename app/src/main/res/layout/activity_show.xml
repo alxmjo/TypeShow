@@ -7,7 +7,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin"
     tools:context="com.alexmontjohn.typeshow.ShowActivity"
-    android:background="#ff009688">
+    android:background="#ff2196F3">
 
     <TextView
         android:text="@string/what_you_typed"
@@ -39,7 +39,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:background="@android:color/white"
-        android:textColor="#ff009688"
+        android:textColor="#ff2196F3"
         android:textSize="20sp"/>
 
 </RelativeLayout>
